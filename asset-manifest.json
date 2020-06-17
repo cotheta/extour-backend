@@ -1,0 +1,36 @@
+{
+  "files": {
+    "app.js": "/extour-backend/static/js/app.26699836.chunk.js",
+    "app.js.map": "/extour-backend/static/js/app.26699836.chunk.js.map",
+    "runtime~app.js": "/extour-backend/static/js/runtime~app.68f2be52.js",
+    "runtime~app.js.map": "/extour-backend/static/js/runtime~app.68f2be52.js.map",
+    "static/js/2.484135e4.chunk.js": "/extour-backend/static/js/2.484135e4.chunk.js",
+    "static/js/2.484135e4.chunk.js.map": "/extour-backend/static/js/2.484135e4.chunk.js.map",
+    "fonts/AntDesign.ttf": "/extour-backend/./fonts/AntDesign.ttf",
+    "fonts/Entypo.ttf": "/extour-backend/./fonts/Entypo.ttf",
+    "fonts/Feather.ttf": "/extour-backend/./fonts/Feather.ttf",
+    "fonts/FontAwesome.ttf": "/extour-backend/./fonts/FontAwesome.ttf",
+    "fonts/FontAwesome5_Brands.ttf": "/extour-backend/./fonts/FontAwesome5_Brands.ttf",
+    "fonts/FontAwesome5_Solid.ttf": "/extour-backend/./fonts/FontAwesome5_Solid.ttf",
+    "fonts/Foundation.ttf": "/extour-backend/./fonts/Foundation.ttf",
+    "fonts/Ionicons.ttf": "/extour-backend/./fonts/Ionicons.ttf",
+    "fonts/MaterialCommunityIcons.ttf": "/extour-backend/./fonts/MaterialCommunityIcons.ttf",
+    "fonts/MaterialIcons.ttf": "/extour-backend/./fonts/MaterialIcons.ttf",
+    "fonts/SimpleLineIcons.ttf": "/extour-backend/./fonts/SimpleLineIcons.ttf",
+    "favicon-16.png": "/extour-backend/favicon-16.png",
+    "favicon-32.png": "/extour-backend/favicon-32.png",
+    "favicon.ico": "/extour-backend/favicon.ico",
+    "index.html": "/extour-backend/index.html",
+    "manifest.json": "/extour-backend/manifest.json",
+    "serve.json": "/extour-backend/serve.json",
+    "static/media/bell.png": "/extour-backend/static/media/bell.a7b9dc9d.png",
+    "static/media/heart.png": "/extour-backend/static/media/heart.2327736b.png",
+    "static/media/rocket.png": "/extour-backend/static/media/rocket.51671417.png",
+    "static/media/star.png": "/extour-backend/static/media/star.004c2bbb.png"
+  },
+  "entrypoints": [
+    "static/js/runtime~app.68f2be52.js",
+    "static/js/2.484135e4.chunk.js",
+    "static/js/app.26699836.chunk.js"
+  ]
+}

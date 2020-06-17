@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/extour-backend/precache-manifest.d9a4086e541acd1cf45705a0a1cdebfc.js"
+  "/extour-backend/precache-manifest.0dad415ab57644ad4625ef355505f5e3.js"
 );
 
 workbox.skipWaiting();

@@ -1,11 +1,11 @@
 {
   "files": {
-    "app.js": "/extour-backend/static/js/app.26699836.chunk.js",
-    "app.js.map": "/extour-backend/static/js/app.26699836.chunk.js.map",
+    "app.js": "/extour-backend/static/js/app.b3e8b686.chunk.js",
+    "app.js.map": "/extour-backend/static/js/app.b3e8b686.chunk.js.map",
     "runtime~app.js": "/extour-backend/static/js/runtime~app.68f2be52.js",
     "runtime~app.js.map": "/extour-backend/static/js/runtime~app.68f2be52.js.map",
-    "static/js/2.484135e4.chunk.js": "/extour-backend/static/js/2.484135e4.chunk.js",
-    "static/js/2.484135e4.chunk.js.map": "/extour-backend/static/js/2.484135e4.chunk.js.map",
+    "static/js/2.8c6b46a5.chunk.js": "/extour-backend/static/js/2.8c6b46a5.chunk.js",
+    "static/js/2.8c6b46a5.chunk.js.map": "/extour-backend/static/js/2.8c6b46a5.chunk.js.map",
     "fonts/AntDesign.ttf": "/extour-backend/./fonts/AntDesign.ttf",
     "fonts/Entypo.ttf": "/extour-backend/./fonts/Entypo.ttf",
     "fonts/Feather.ttf": "/extour-backend/./fonts/Feather.ttf",
@@ -30,7 +30,7 @@
   },
   "entrypoints": [
     "static/js/runtime~app.68f2be52.js",
-    "static/js/2.484135e4.chunk.js",
-    "static/js/app.26699836.chunk.js"
+    "static/js/2.8c6b46a5.chunk.js",
+    "static/js/app.b3e8b686.chunk.js"
   ]
 }
